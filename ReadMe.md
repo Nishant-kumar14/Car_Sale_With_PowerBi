@@ -8,7 +8,7 @@ Evaluate overall trends and regional variations in car sales to assess manufactu
 
 ## Dashboard🖼️
 
-![Screenshot 2025-01-12 220751](https://github.com/user-attachments/assets/651d590d-9648-4310-84d7-9e2cfd84b0c4)
+![Screenshot 2025-01-12 220751](https://github.com/user-attachments/assets/34834e89-6e71-4fd3-af9f-bbfef261f304)
 
 Conclusions👓
 
